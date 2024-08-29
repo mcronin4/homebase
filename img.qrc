@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/close.png</file>
+        <file>img/bg2.png</file>
+        <file>img/logout.png</file>
+        <file>img/bg1.png</file>
+        <file>img/house.png</file>
+        <file>img/map.png</file>
+        <file>img/chat.png</file>
+        <file>img/back.png</file>
+    </qresource>
+</RCC>
